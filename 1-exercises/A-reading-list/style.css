@@ -152,6 +152,14 @@ body {
   background: #87ca8a;
 }
 
+.already-read {
+  background-color: #87ca8a;
+}
+
+.not-read-yet {
+  background-color: darksalmon;
+}
+
 @media screen and (min-width: 992px) {
   .navbar-brand > img {
     max-height: 80px;
